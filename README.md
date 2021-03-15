@@ -41,7 +41,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn more
 
-This project has been deploye to heroku and can be found [here:](https://social-media-react-client.herokuapp.com)
+## This project has been deployed to heroku and can be found [here:](https://social-media-react-client.herokuapp.com)
+
+The project contains the following features:
+- Authentication with Firebase
+- Full CRUD functionality
+- GraphQL integration
 
 The backend for this application can be found [here:](https://github.com/rkustas/social-MERN-server)
 
